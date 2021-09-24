@@ -1,0 +1,9 @@
+Building a Node.js project
+
+
+1) Create a directory for project  (cd into location
+2) Create directory (mkdir directoryName )
+3) make file (touch fileName.js )
+4) Initialise npm with the fileName ( npm init )
+
+5) To open file on editor from commandline ( atom . )
